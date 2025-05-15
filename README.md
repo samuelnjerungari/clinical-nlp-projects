@@ -96,7 +96,7 @@ Aspiring Clinical NLP Annotation & QA Specialist
 
 ## 🔗 Connect
 
-* [LinkedIn Profile](www.linkedin.com/in/samuel-n-ngari)
+* [LinkedIn Profile](https://www.linkedin.com/in/samuel-n-ngari)
 * [GitHub Profile](https://github.com/samuelnjerungari)
 
 ---
