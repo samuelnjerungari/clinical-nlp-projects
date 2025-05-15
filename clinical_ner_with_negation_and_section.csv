@@ -1,0 +1,12 @@
+Original Text,Entity,Label,Negated,Section
+Patient is prescribed metformin 500 mg for diabetes.,metformin,MEDICATION,False,UNKNOWN
+Patient is prescribed metformin 500 mg for diabetes.,500 mg,DOSAGE,False,UNKNOWN
+Patient is prescribed metformin 500 mg for diabetes.,diabetes,CONDITION,False,UNKNOWN
+She complains of chest pain and is scheduled for a blood test.,chest pain,SYMPTOM,False,UNKNOWN
+She complains of chest pain and is scheduled for a blood test.,blood test,PROCEDURE,False,UNKNOWN
+MRI was recommended due to persistent headache.,MRI,PROCEDURE,False,UNKNOWN
+MRI was recommended due to persistent headache.,headache,SYMPTOM,False,UNKNOWN
+Lisinopril 10 mg is taken daily to manage hypertension.,10 mg,DOSAGE,False,UNKNOWN
+Lisinopril 10 mg is taken daily to manage hypertension.,hypertension,CONDITION,False,UNKNOWN
+No signs of headache after taking ibuprofen.,headache,SYMPTOM,True,UNKNOWN
+No signs of headache after taking ibuprofen.,ibuprofen,MEDICATION,True,UNKNOWN
