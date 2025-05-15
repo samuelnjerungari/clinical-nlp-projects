@@ -89,7 +89,7 @@ No signs of headache SYMPTOM (neg) after taking ibuprofen MEDICATION (neg)
 
 ## 🌟 Author
 
-**Samuel \[Your Last Name]**
+**Samuel \Njeru Ngari**
 Aspiring Clinical NLP Annotation & QA Specialist
 
 ---
