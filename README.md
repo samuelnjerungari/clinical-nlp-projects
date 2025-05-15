@@ -2,6 +2,17 @@
 
 This project demonstrates a beginner-friendly, rule-based Clinical Named Entity Recognition (NER) pipeline using **spaCy**, without relying on external libraries like medspaCy. It includes **negation detection**, **section header parsing**, and **visualization** of clinical entities.
 
+# 🧠 Clinical NER with spaCy + EntityRuler
+
+This project demonstrates a clinical Named Entity Recognition (NER) pipeline using spaCy and EntityRuler with additional features like negation detection and section classification.
+
+![NER Visualization Output](clinical_ner_visual_output.png)
+
+✅ No MedSpaCy required  
+✅ Fully customizable  
+✅ Portfolio & beginner-friendly
+
+
 ## 📅 Use Case
 
 Extract structured clinical information from medical notes for annotation, audit, or downstream analysis:
